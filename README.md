@@ -1,0 +1,2 @@
+# ChinaList
+SwitchyOmega import ChinaList
