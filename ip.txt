@@ -68330,3 +68330,4 @@
 *.zzzzaaaa.com
 *.zzzzhong.com
 *.zzzzmall.com
+*.chaoxing.com
